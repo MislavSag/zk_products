@@ -88,4 +88,5 @@ dim(result)
 
 
 # Save
-# fwrite(zkdt, "INA_podaci.csv")
+ fwrite(zkdt, "INA_podaci.csv")
+ 
